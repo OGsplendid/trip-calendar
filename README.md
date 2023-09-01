@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/of545jviynp0ent3?svg=true)](https://ci.appveyor.com/project/OGsplendid/list-editor)
+[![Build status](https://ci.appveyor.com/api/projects/status/8rvq116pvt7qocqe?svg=true)](https://ci.appveyor.com/project/OGsplendid/trip-calendar)
